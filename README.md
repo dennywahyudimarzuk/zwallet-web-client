@@ -25,7 +25,7 @@ ZWallet also arranges so that you can still use the funds to pay for various nee
 - Make sure there are no other processes that use port 8000
 - Run app zwallet in terminal yarn start.
 
-### `Display Aplication`
+### `Sample Display`
 
 ![Screenshoot](https://github.com/dennywahyudimarzuk/SS/blob/main/1a.png)
 
